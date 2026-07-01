@@ -6,5 +6,8 @@
 	--eggshell: #f4ebd9;
 	--grey-olive: #a39a92f;
 	--ash-brown: #77685d;
-	font-family: "Tinos",serif;
+
+}
+body {
+	font-family: "Tinos", serif;
 }
