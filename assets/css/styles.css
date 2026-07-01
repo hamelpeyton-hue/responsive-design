@@ -1,9 +1,6 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
-}
-
-.col, .col-4, .col-8 {
-	border: 1px solid red;
+:root {
+	--deep-mocha: #483d3f;
+	--blue-bell: #058ed9;
 }
